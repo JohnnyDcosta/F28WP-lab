@@ -11,7 +11,7 @@ body {
 
 /* Header Styles */
 header {
-    background: linear-gradient(301deg, #8080b0, #854a4a);
+    background: linear-gradient(301deg, #123802, #dee036);
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -147,7 +147,7 @@ main h3 {
 .cta-container {
     text-align: center;
     padding: 20px;
-    background-color: #d64edf;
+    background-color: #022b02;
     margin-top: 30px;
     color: #fff;
     border: 1px solid #0d0d0d;
